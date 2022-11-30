@@ -1,0 +1,11 @@
+,Kota 1,Kota 2,Jarak
+0,Jakarta,Bogor,2400
+1,Jakarta,Bandung,1500
+2,Bogor,Bandung,1000
+3,Bogor,Cirebon,1250
+4,Bandung,Bekasi,950
+5,Bandung,Subang,1650
+6,Bandung,Cirebon,650
+7,Cirebon,Bekasi,450
+8,Bekasi,Subang,340
+9,Subang,Subang,0
