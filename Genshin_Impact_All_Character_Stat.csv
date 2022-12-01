@@ -1,0 +1,575 @@
+Character,Lv,Rarity,Element,Weapon,Main role,Ascension,Base HP,Base ATK,Base DEF
+Amber,1,4,Pyro,Bow,Sub DPS,ATK,793,19,50
+Amber,20,4,Pyro,Bow,Sub DPS,ATK,2038,48,129
+Amber,20,4,Pyro,Bow,Sub DPS,ATK,2630,62,167
+Amber,40,4,Pyro,Bow,Sub DPS,ATK,3940,93,250
+Amber,40,4,Pyro,Bow,Sub DPS,ATK,4361,103,277
+Amber,50,4,Pyro,Bow,Sub DPS,ATK,5016,118,318
+Amber,50,4,Pyro,Bow,Sub DPS,ATK,5578,131,354
+Amber,60,4,Pyro,Bow,Sub DPS,ATK,6233,147,396
+Amber,60,4,Pyro,Bow,Sub DPS,ATK,6654,157,422
+Amber,70,4,Pyro,Bow,Sub DPS,ATK,7309,172,464
+Amber,70,4,Pyro,Bow,Sub DPS,ATK,7730,182,491
+Amber,80,4,Pyro,Bow,Sub DPS,ATK,8385,198,532
+Amber,80,4,Pyro,Bow,Sub DPS,ATK,8806,208,559
+Amber,90,4,Pyro,Bow,Sub DPS,ATK,9461,223,601
+Barbara,1,4,Hydro,Catalyst,Healer,HP,821,13,56
+Barbara,20,4,Hydro,Catalyst,Healer,HP,2108,34,144
+Barbara,20,4,Hydro,Catalyst,Healer,HP,2721,44,186
+Barbara,40,4,Hydro,Catalyst,Healer,HP,4076,66,279
+Barbara,40,4,Hydro,Catalyst,Healer,HP,4512,73,308
+Barbara,50,4,Hydro,Catalyst,Healer,HP,5189,84,355
+Barbara,50,4,Hydro,Catalyst,Healer,HP,5770,94,394
+Barbara,60,4,Hydro,Catalyst,Healer,HP,6448,105,441
+Barbara,60,4,Hydro,Catalyst,Healer,HP,6884,112,470
+Barbara,70,4,Hydro,Catalyst,Healer,HP,7561,123,517
+Barbara,70,4,Hydro,Catalyst,Healer,HP,7996,130,546
+Barbara,80,4,Hydro,Catalyst,Healer,HP,8674,141,593
+Barbara,80,4,Hydro,Catalyst,Healer,HP,9110,148,623
+Barbara,90,4,Hydro,Catalyst,Healer,HP,9787,159,669
+Beidou,1,4,Electro,Claymore,Sub DPS,Electro DMG,1094,19,54
+Beidou,20,4,Electro,Claymore,Sub DPS,Electro DMG,2811,48,140
+Beidou,20,4,Electro,Claymore,Sub DPS,Electro DMG,3628,63,180
+Beidou,40,4,Electro,Claymore,Sub DPS,Electro DMG,5435,94,270
+Beidou,40,4,Electro,Claymore,Sub DPS,Electro DMG,6015,104,299
+Beidou,50,4,Electro,Claymore,Sub DPS,Electro DMG,6919,119,344
+Beidou,50,4,Electro,Claymore,Sub DPS,Electro DMG,7694,133,382
+Beidou,60,4,Electro,Claymore,Sub DPS,Electro DMG,8597,148,427
+Beidou,60,4,Electro,Claymore,Sub DPS,Electro DMG,9178,158,456
+Beidou,70,4,Electro,Claymore,Sub DPS,Electro DMG,10081,174,501
+Beidou,70,4,Electro,Claymore,Sub DPS,Electro DMG,10662,184,530
+Beidou,80,4,Electro,Claymore,Sub DPS,Electro DMG,11565,200,575
+Beidou,80,4,Electro,Claymore,Sub DPS,Electro DMG,12146,210,603
+Beidou,90,4,Electro,Claymore,Sub DPS,Electro DMG,13050,225,648
+Bennett,1,4,Pyro,Sword,Healer,Energy Recharge,1039,16,65
+Bennett,20,4,Pyro,Sword,Healer,Energy Recharge,2670,41,166
+Bennett,20,4,Pyro,Sword,Healer,Energy Recharge,3447,53,214
+Bennett,40,4,Pyro,Sword,Healer,Energy Recharge,5163,80,321
+Bennett,40,4,Pyro,Sword,Healer,Energy Recharge,5715,88,356
+Bennett,50,4,Pyro,Sword,Healer,Energy Recharge,6573,101,409
+Bennett,50,4,Pyro,Sword,Healer,Energy Recharge,7309,113,455
+Bennett,60,4,Pyro,Sword,Healer,Energy Recharge,8168,126,508
+Bennett,60,4,Pyro,Sword,Healer,Energy Recharge,8719,134,542
+Bennett,70,4,Pyro,Sword,Healer,Energy Recharge,9577,148,596
+Bennett,70,4,Pyro,Sword,Healer,Energy Recharge,10129,156,630
+Bennett,80,4,Pyro,Sword,Healer,Energy Recharge,10987,169,684
+Bennett,80,4,Pyro,Sword,Healer,Energy Recharge,11539,178,718
+Bennett,90,4,Pyro,Sword,Healer,Energy Recharge,12397,191,771
+Chongyun,1,4,Cryo,Claymore,Sub DPS,ATK,921,19,54
+Chongyun,20,4,Cryo,Claymore,Sub DPS,ATK,2366,48,140
+Chongyun,20,4,Cryo,Claymore,Sub DPS,ATK,3054,62,180
+Chongyun,40,4,Cryo,Claymore,Sub DPS,ATK,4574,93,270
+Chongyun,40,4,Cryo,Claymore,Sub DPS,ATK,5063,103,299
+Chongyun,50,4,Cryo,Claymore,Sub DPS,ATK,5824,118,344
+Chongyun,50,4,Cryo,Claymore,Sub DPS,ATK,6475,131,382
+Chongyun,60,4,Cryo,Claymore,Sub DPS,ATK,7236,147,427
+Chongyun,60,4,Cryo,Claymore,Sub DPS,ATK,7725,157,456
+Chongyun,70,4,Cryo,Claymore,Sub DPS,ATK,8485,172,501
+Chongyun,70,4,Cryo,Claymore,Sub DPS,ATK,8974,182,530
+Chongyun,80,4,Cryo,Claymore,Sub DPS,ATK,9734,198,575
+Chongyun,80,4,Cryo,Claymore,Sub DPS,ATK,10223,208,603
+Chongyun,90,4,Cryo,Claymore,Sub DPS,ATK,10984,223,648
+Diluc,1,5,Pyro,Claymore,DPS,CRIT Rate,1011,26,61
+Diluc,20,5,Pyro,Claymore,DPS,CRIT Rate,2621,68,158
+Diluc,20,5,Pyro,Claymore,DPS,CRIT Rate,3488,90,211
+Diluc,40,5,Pyro,Claymore,DPS,CRIT Rate,5219,135,315
+Diluc,40,5,Pyro,Claymore,DPS,CRIT Rate,5834,151,352
+Diluc,50,5,Pyro,Claymore,DPS,CRIT Rate,6712,173,405
+Diluc,50,5,Pyro,Claymore,DPS,CRIT Rate,7533,194,455
+Diluc,60,5,Pyro,Claymore,DPS,CRIT Rate,8421,217,509
+Diluc,60,5,Pyro,Claymore,DPS,CRIT Rate,9036,233,546
+Diluc,70,5,Pyro,Claymore,DPS,CRIT Rate,9932,256,600
+Diluc,70,5,Pyro,Claymore,DPS,CRIT Rate,10547,272,637
+Diluc,80,5,Pyro,Claymore,DPS,CRIT Rate,11453,295,692
+Diluc,80,5,Pyro,Claymore,DPS,CRIT Rate,12068,311,729
+Diluc,90,5,Pyro,Claymore,DPS,CRIT Rate,12981,335,784
+Fischl,1,4,Electro,Bow,Sub DPS,ATK,770,20,50
+Fischl,20,4,Electro,Bow,Sub DPS,ATK,1979,53,128
+Fischl,20,4,Electro,Bow,Sub DPS,ATK,2555,68,165
+Fischl,40,4,Electro,Bow,Sub DPS,ATK,3827,102,247
+Fischl,40,4,Electro,Bow,Sub DPS,ATK,4236,113,274
+Fischl,50,4,Electro,Bow,Sub DPS,ATK,4872,130,315
+Fischl,50,4,Electro,Bow,Sub DPS,ATK,5418,144,350
+Fischl,60,4,Electro,Bow,Sub DPS,ATK,6054,161,391
+Fischl,60,4,Electro,Bow,Sub DPS,ATK,6463,172,418
+Fischl,70,4,Electro,Bow,Sub DPS,ATK,7099,189,459
+Fischl,70,4,Electro,Bow,Sub DPS,ATK,7508,200,485
+Fischl,80,4,Electro,Bow,Sub DPS,ATK,8144,216,526
+Fischl,80,4,Electro,Bow,Sub DPS,ATK,8553,227,553
+Fischl,90,4,Electro,Bow,Sub DPS,ATK,9189,244,594
+Jean,1,5,Anemo,Sword,Healer,Healing Bonus,1144,19,60
+Jean,20,5,Anemo,Sword,Healer,Healing Bonus,2967,48,155
+Jean,20,5,Anemo,Sword,Healer,Healing Bonus,3948,64,206
+Jean,40,5,Anemo,Sword,Healer,Healing Bonus,5908,96,309
+Jean,40,5,Anemo,Sword,Healer,Healing Bonus,6605,108,345
+Jean,50,5,Anemo,Sword,Healer,Healing Bonus,7599,124,397
+Jean,50,5,Anemo,Sword,Healer,Healing Bonus,8528,139,446
+Jean,60,5,Anemo,Sword,Healer,Healing Bonus,9533,155,499
+Jean,60,5,Anemo,Sword,Healer,Healing Bonus,10230,166,535
+Jean,70,5,Anemo,Sword,Healer,Healing Bonus,11243,183,588
+Jean,70,5,Anemo,Sword,Healer,Healing Bonus,11940,194,624
+Jean,80,5,Anemo,Sword,Healer,Healing Bonus,12965,211,678
+Jean,80,5,Anemo,Sword,Healer,Healing Bonus,13662,222,715
+Jean,90,5,Anemo,Sword,Healer,Healing Bonus,14695,239,769
+Kaeya,1,4,Cryo,Sword,Support,Energy Recharge,976,19,66
+Kaeya,20,4,Cryo,Sword,Support,Energy Recharge,2506,48,171
+Kaeya,20,4,Cryo,Sword,Support,Energy Recharge,3235,62,220
+Kaeya,40,4,Cryo,Sword,Support,Energy Recharge,4846,93,330
+Kaeya,40,4,Cryo,Sword,Support,Energy Recharge,5364,103,365
+Kaeya,50,4,Cryo,Sword,Support,Energy Recharge,6170,118,420
+Kaeya,50,4,Cryo,Sword,Support,Energy Recharge,6860,131,467
+Kaeya,60,4,Cryo,Sword,Support,Energy Recharge,7666,147,522
+Kaeya,60,4,Cryo,Sword,Support,Energy Recharge,8184,157,557
+Kaeya,70,4,Cryo,Sword,Support,Energy Recharge,8989,172,612
+Kaeya,70,4,Cryo,Sword,Support,Energy Recharge,9507,182,647
+Kaeya,80,4,Cryo,Sword,Support,Energy Recharge,10312,198,702
+Kaeya,80,4,Cryo,Sword,Support,Energy Recharge,10830,208,737
+Kaeya,90,4,Cryo,Sword,Support,Energy Recharge,11636,223,792
+Keqing,1,5,Electro,Sword,DPS,CRIT DMG,1020,25,62
+Keqing,20,5,Electro,Sword,DPS,CRIT DMG,2646,65,161
+Keqing,20,5,Electro,Sword,DPS,CRIT DMG,3521,87,215
+Keqing,40,5,Electro,Sword,DPS,CRIT DMG,5268,130,321
+Keqing,40,5,Electro,Sword,DPS,CRIT DMG,5889,145,359
+Keqing,50,5,Electro,Sword,DPS,CRIT DMG,6776,167,413
+Keqing,50,5,Electro,Sword,DPS,CRIT DMG,7604,187,464
+Keqing,60,5,Electro,Sword,DPS,CRIT DMG,8500,209,519
+Keqing,60,5,Electro,Sword,DPS,CRIT DMG,9121,225,556
+Keqing,70,5,Electro,Sword,DPS,CRIT DMG,10025,247,612
+Keqing,70,5,Electro,Sword,DPS,CRIT DMG,10647,262,649
+Keqing,80,5,Electro,Sword,DPS,CRIT DMG,11561,285,705
+Keqing,80,5,Electro,Sword,DPS,CRIT DMG,12182,300,743
+Keqing,90,5,Electro,Sword,DPS,CRIT DMG,13103,323,799
+Klee,1,5,Pyro,Catalyst,DPS,Pyro DMG,801,24,48
+Klee,20,5,Pyro,Catalyst,DPS,Pyro DMG,2077,63,124
+Klee,20,5,Pyro,Catalyst,DPS,Pyro DMG,2764,84,165
+Klee,40,5,Pyro,Catalyst,DPS,Pyro DMG,4136,125,247
+Klee,40,5,Pyro,Catalyst,DPS,Pyro DMG,4623,140,276
+Klee,50,5,Pyro,Catalyst,DPS,Pyro DMG,5319,161,318
+Klee,50,5,Pyro,Catalyst,DPS,Pyro DMG,5970,180,357
+Klee,60,5,Pyro,Catalyst,DPS,Pyro DMG,6673,202,399
+Klee,60,5,Pyro,Catalyst,DPS,Pyro DMG,7161,216,428
+Klee,70,5,Pyro,Catalyst,DPS,Pyro DMG,7870,238,470
+Klee,70,5,Pyro,Catalyst,DPS,Pyro DMG,8358,253,500
+Klee,80,5,Pyro,Catalyst,DPS,Pyro DMG,9076,274,542
+Klee,80,5,Pyro,Catalyst,DPS,Pyro DMG,9563,289,572
+Klee,90,5,Pyro,Catalyst,DPS,Pyro DMG,10287,311,615
+Lisa,1,4,Electro,Catalyst,Support,Elemental Mastery,802,19,48
+Lisa,20,4,Electro,Catalyst,Support,Elemental Mastery,2061,50,123
+Lisa,20,4,Electro,Catalyst,Support,Elemental Mastery,2661,64,159
+Lisa,40,4,Electro,Catalyst,Support,Elemental Mastery,3985,96,239
+Lisa,40,4,Electro,Catalyst,Support,Elemental Mastery,4411,107,264
+Lisa,50,4,Electro,Catalyst,Support,Elemental Mastery,5074,123,304
+Lisa,50,4,Electro,Catalyst,Support,Elemental Mastery,5642,136,338
+Lisa,60,4,Electro,Catalyst,Support,Elemental Mastery,6305,153,378
+Lisa,60,4,Electro,Catalyst,Support,Elemental Mastery,6731,163,403
+Lisa,70,4,Electro,Catalyst,Support,Elemental Mastery,7393,179,443
+Lisa,70,4,Electro,Catalyst,Support,Elemental Mastery,7818,189,468
+Lisa,80,4,Electro,Catalyst,Support,Elemental Mastery,8481,205,508
+Lisa,80,4,Electro,Catalyst,Support,Elemental Mastery,8907,215,534
+Lisa,90,4,Electro,Catalyst,Support,Elemental Mastery,9570,232,573
+Mona,1,5,Hydro,Catalyst,Support,Energy Recharge,810,22,51
+Mona,20,5,Hydro,Catalyst,Support,Energy Recharge,2102,58,132
+Mona,20,5,Hydro,Catalyst,Support,Energy Recharge,2797,77,176
+Mona,40,5,Hydro,Catalyst,Support,Energy Recharge,4185,115,263
+Mona,40,5,Hydro,Catalyst,Support,Energy Recharge,4678,129,294
+Mona,50,5,Hydro,Catalyst,Support,Energy Recharge,5383,148,338
+Mona,50,5,Hydro,Catalyst,Support,Energy Recharge,6041,167,379
+Mona,60,5,Hydro,Catalyst,Support,Energy Recharge,6752,186,424
+Mona,60,5,Hydro,Catalyst,Support,Energy Recharge,7246,200,455
+Mona,70,5,Hydro,Catalyst,Support,Energy Recharge,7964,220,500
+Mona,70,5,Hydro,Catalyst,Support,Energy Recharge,8458,233,531
+Mona,80,5,Hydro,Catalyst,Support,Energy Recharge,9184,253,576
+Mona,80,5,Hydro,Catalyst,Support,Energy Recharge,9677,267,607
+Mona,90,5,Hydro,Catalyst,Support,Energy Recharge,10409,287,653
+Ningguang,1,4,Geo,Catalyst,DPS,Geo DMG,821,18,48
+Ningguang,20,4,Geo,Catalyst,DPS,Geo DMG,2108,46,123
+Ningguang,20,4,Geo,Catalyst,DPS,Geo DMG,2721,59,159
+Ningguang,40,4,Geo,Catalyst,DPS,Geo DMG,4076,88,239
+Ningguang,40,4,Geo,Catalyst,DPS,Geo DMG,4512,98,264
+Ningguang,50,4,Geo,Catalyst,DPS,Geo DMG,5189,113,304
+Ningguang,50,4,Geo,Catalyst,DPS,Geo DMG,5770,125,338
+Ningguang,60,4,Geo,Catalyst,DPS,Geo DMG,6448,140,378
+Ningguang,60,4,Geo,Catalyst,DPS,Geo DMG,6884,149,403
+Ningguang,70,4,Geo,Catalyst,DPS,Geo DMG,7561,164,443
+Ningguang,70,4,Geo,Catalyst,DPS,Geo DMG,7996,174,468
+Ningguang,80,4,Geo,Catalyst,DPS,Geo DMG,8674,188,508
+Ningguang,80,4,Geo,Catalyst,DPS,Geo DMG,9110,198,534
+Ningguang,90,4,Geo,Catalyst,DPS,Geo DMG,9787,212,573
+Noelle,1,4,Geo,Claymore,Support,DEF,1012,16,67
+Noelle,20,4,Geo,Claymore,Support,DEF,2600,41,172
+Noelle,20,4,Geo,Claymore,Support,DEF,3356,53,222
+Noelle,40,4,Geo,Claymore,Support,DEF,5027,80,333
+Noelle,40,4,Geo,Claymore,Support,DEF,5564,88,368
+Noelle,50,4,Geo,Claymore,Support,DEF,6400,101,423
+Noelle,50,4,Geo,Claymore,Support,DEF,7117,113,471
+Noelle,60,4,Geo,Claymore,Support,DEF,7953,126,526
+Noelle,60,4,Geo,Claymore,Support,DEF,8490,134,562
+Noelle,70,4,Geo,Claymore,Support,DEF,9325,148,617
+Noelle,70,4,Geo,Claymore,Support,DEF,9862,156,652
+Noelle,80,4,Geo,Claymore,Support,DEF,10698,169,708
+Noelle,80,4,Geo,Claymore,Support,DEF,11235,178,743
+Noelle,90,4,Geo,Claymore,Support,DEF,12071,191,799
+Qiqi,1,5,Cryo,Sword,Healer,Healing Bonus,963,22,72
+Qiqi,20,5,Cryo,Sword,Healer,Healing Bonus,2498,58,186
+Qiqi,20,5,Cryo,Sword,Healer,Healing Bonus,3323,77,248
+Qiqi,40,5,Cryo,Sword,Healer,Healing Bonus,4973,115,371
+Qiqi,40,5,Cryo,Sword,Healer,Healing Bonus,5559,129,415
+Qiqi,50,5,Cryo,Sword,Healer,Healing Bonus,6396,148,477
+Qiqi,50,5,Cryo,Sword,Healer,Healing Bonus,7178,167,535
+Qiqi,60,5,Cryo,Sword,Healer,Healing Bonus,8023,186,598
+Qiqi,60,5,Cryo,Sword,Healer,Healing Bonus,8610,200,642
+Qiqi,70,5,Cryo,Sword,Healer,Healing Bonus,9463,220,706
+Qiqi,70,5,Cryo,Sword,Healer,Healing Bonus,10050,233,749
+Qiqi,80,5,Cryo,Sword,Healer,Healing Bonus,10912,253,814
+Qiqi,80,5,Cryo,Sword,Healer,Healing Bonus,11499,267,857
+Qiqi,90,5,Cryo,Sword,Healer,Healing Bonus,12368,287,922
+Razor,1,4,Electro,Claymore,DPS,Physical DMG,1003,20,63
+Razor,20,4,Electro,Claymore,DPS,Physical DMG,2577,50,162
+Razor,20,4,Electro,Claymore,DPS,Physical DMG,3326,65,209
+Razor,40,4,Electro,Claymore,DPS,Physical DMG,4982,97,313
+Razor,40,4,Electro,Claymore,DPS,Physical DMG,5514,108,346
+Razor,50,4,Electro,Claymore,DPS,Physical DMG,6343,124,398
+Razor,50,4,Electro,Claymore,DPS,Physical DMG,7052,138,443
+Razor,60,4,Electro,Claymore,DPS,Physical DMG,7881,154,495
+Razor,60,4,Electro,Claymore,DPS,Physical DMG,8413,164,528
+Razor,70,4,Electro,Claymore,DPS,Physical DMG,9241,180,580
+Razor,70,4,Electro,Claymore,DPS,Physical DMG,9773,191,613
+Razor,80,4,Electro,Claymore,DPS,Physical DMG,10602,207,665
+Razor,80,4,Electro,Claymore,DPS,Physical DMG,11134,217,699
+Razor,90,4,Electro,Claymore,DPS,Physical DMG,11962,234,751
+Sucrose,1,4,Anemo,Catalyst,Support,Anemo DMG,775,14,59
+Sucrose,20,4,Anemo,Catalyst,Support,Anemo DMG,1991,37,151
+Sucrose,20,4,Anemo,Catalyst,Support,Anemo DMG,2570,47,195
+Sucrose,40,4,Anemo,Catalyst,Support,Anemo DMG,3850,71,293
+Sucrose,40,4,Anemo,Catalyst,Support,Anemo DMG,4261,78,324
+Sucrose,50,4,Anemo,Catalyst,Support,Anemo DMG,4901,90,373
+Sucrose,50,4,Anemo,Catalyst,Support,Anemo DMG,5450,100,414
+Sucrose,60,4,Anemo,Catalyst,Support,Anemo DMG,6090,112,463
+Sucrose,60,4,Anemo,Catalyst,Support,Anemo DMG,6501,120,494
+Sucrose,70,4,Anemo,Catalyst,Support,Anemo DMG,7141,131,543
+Sucrose,70,4,Anemo,Catalyst,Support,Anemo DMG,7552,139,574
+Sucrose,80,4,Anemo,Catalyst,Support,Anemo DMG,8192,151,623
+Sucrose,80,4,Anemo,Catalyst,Support,Anemo DMG,8604,158,654
+Sucrose,90,4,Anemo,Catalyst,Support,Anemo DMG,9244,170,703
+Venti,1,5,Anemo,Bow,Support,Energy Recharge,820,20,52
+Venti,20,5,Anemo,Bow,Support,Energy Recharge,2127,53,135
+Venti,20,5,Anemo,Bow,Support,Energy Recharge,2830,71,180
+Venti,40,5,Anemo,Bow,Support,Energy Recharge,4234,106,269
+Venti,40,5,Anemo,Bow,Support,Energy Recharge,4734,118,301
+Venti,50,5,Anemo,Bow,Support,Energy Recharge,5446,136,346
+Venti,50,5,Anemo,Bow,Support,Energy Recharge,6112,153,388
+Venti,60,5,Anemo,Bow,Support,Energy Recharge,6832,171,434
+Venti,60,5,Anemo,Bow,Support,Energy Recharge,7331,183,465
+Venti,70,5,Anemo,Bow,Support,Energy Recharge,8058,201,512
+Venti,70,5,Anemo,Bow,Support,Energy Recharge,8557,214,543
+Venti,80,5,Anemo,Bow,Support,Energy Recharge,9292,232,590
+Venti,80,5,Anemo,Bow,Support,Energy Recharge,9791,245,622
+Venti,90,5,Anemo,Bow,Support,Energy Recharge,10531,263,669
+Xiangling,1,4,Pyro,Polearm,Sub DPS,Elemental Mastery,912,19,56
+Xiangling,20,4,Pyro,Polearm,Sub DPS,Elemental Mastery,2342,48,144
+Xiangling,20,4,Pyro,Polearm,Sub DPS,Elemental Mastery,3024,63,186
+Xiangling,40,4,Pyro,Polearm,Sub DPS,Elemental Mastery,4529,94,279
+Xiangling,40,4,Pyro,Polearm,Sub DPS,Elemental Mastery,5013,104,308
+Xiangling,50,4,Pyro,Polearm,Sub DPS,Elemental Mastery,5766,119,355
+Xiangling,50,4,Pyro,Polearm,Sub DPS,Elemental Mastery,6411,133,394
+Xiangling,60,4,Pyro,Polearm,Sub DPS,Elemental Mastery,7164,148,441
+Xiangling,60,4,Pyro,Polearm,Sub DPS,Elemental Mastery,7648,158,470
+Xiangling,70,4,Pyro,Polearm,Sub DPS,Elemental Mastery,8401,174,517
+Xiangling,70,4,Pyro,Polearm,Sub DPS,Elemental Mastery,8885,184,546
+Xiangling,80,4,Pyro,Polearm,Sub DPS,Elemental Mastery,9638,200,593
+Xiangling,80,4,Pyro,Polearm,Sub DPS,Elemental Mastery,10122,210,623
+Xiangling,90,4,Pyro,Polearm,Sub DPS,Elemental Mastery,10875,225,669
+Xiao,1,5,Anemo,Polearm,DPS,CRIT Rate,991,27,62
+Xiao,20,5,Anemo,Polearm,DPS,CRIT Rate,2572,71,161
+Xiao,20,5,Anemo,Polearm,DPS,CRIT Rate,3422,94,215
+Xiao,40,5,Anemo,Polearm,DPS,CRIT Rate,5120,140,321
+Xiao,40,5,Anemo,Polearm,DPS,CRIT Rate,5724,157,359
+Xiao,50,5,Anemo,Polearm,DPS,CRIT Rate,6586,181,413
+Xiao,50,5,Anemo,Polearm,DPS,CRIT Rate,7391,203,464
+Xiao,60,5,Anemo,Polearm,DPS,CRIT Rate,8262,227,519
+Xiao,60,5,Anemo,Polearm,DPS,CRIT Rate,8866,243,556
+Xiao,70,5,Anemo,Polearm,DPS,CRIT Rate,9744,267,612
+Xiao,70,5,Anemo,Polearm,DPS,CRIT Rate,10348,284,649
+Xiao,80,5,Anemo,Polearm,DPS,CRIT Rate,11236,308,705
+Xiao,80,5,Anemo,Polearm,DPS,CRIT Rate,11840,325,743
+Xiao,90,5,Anemo,Polearm,DPS,CRIT Rate,12736,349,799
+Xingqiu,1,4,Hydro,Sword,Sub DPS,ATK,857,17,64
+Xingqiu,20,4,Hydro,Sword,Sub DPS,ATK,2202,43,163
+Xingqiu,20,4,Hydro,Sword,Sub DPS,ATK,2842,56,211
+Xingqiu,40,4,Hydro,Sword,Sub DPS,ATK,4257,84,316
+Xingqiu,40,4,Hydro,Sword,Sub DPS,ATK,4712,93,349
+Xingqiu,50,4,Hydro,Sword,Sub DPS,ATK,5420,107,402
+Xingqiu,50,4,Hydro,Sword,Sub DPS,ATK,6027,119,447
+Xingqiu,60,4,Hydro,Sword,Sub DPS,ATK,6735,133,499
+Xingqiu,60,4,Hydro,Sword,Sub DPS,ATK,7190,142,533
+Xingqiu,70,4,Hydro,Sword,Sub DPS,ATK,7897,156,585
+Xingqiu,70,4,Hydro,Sword,Sub DPS,ATK,8352,165,619
+Xingqiu,80,4,Hydro,Sword,Sub DPS,ATK,9060,179,671
+Xingqiu,80,4,Hydro,Sword,Sub DPS,ATK,9514,188,705
+Xingqiu,90,4,Hydro,Sword,Sub DPS,ATK,10222,202,758
+Tartaglia,1,5,Hydro,Bow,DPS,Hydro DMG,1020,23,63
+Tartaglia,20,5,Hydro,Bow,DPS,Hydro DMG,2646,61,165
+Tartaglia,20,5,Hydro,Bow,DPS,Hydro DMG,3521,81,219
+Tartaglia,40,5,Hydro,Bow,DPS,Hydro DMG,5268,121,328
+Tartaglia,40,5,Hydro,Bow,DPS,Hydro DMG,5889,135,366
+Tartaglia,50,5,Hydro,Bow,DPS,Hydro DMG,6776,156,421
+Tartaglia,50,5,Hydro,Bow,DPS,Hydro DMG,7604,175,473
+Tartaglia,60,5,Hydro,Bow,DPS,Hydro DMG,8500,195,528
+Tartaglia,60,5,Hydro,Bow,DPS,Hydro DMG,9121,210,567
+Tartaglia,70,5,Hydro,Bow,DPS,Hydro DMG,10025,231,623
+Tartaglia,70,5,Hydro,Bow,DPS,Hydro DMG,10647,245,662
+Tartaglia,80,5,Hydro,Bow,DPS,Hydro DMG,11561,266,719
+Tartaglia,80,5,Hydro,Bow,DPS,Hydro DMG,12182,280,757
+Tartaglia,90,5,Hydro,Bow,DPS,Hydro DMG,13103,301,815
+Zhongli,1,5,Geo,Polearm,Support,Geo DMG,1144,20,57
+Zhongli,20,5,Geo,Polearm,Support,Geo DMG,2967,51,149
+Zhongli,20,5,Geo,Polearm,Support,Geo DMG,3948,67,198
+Zhongli,40,5,Geo,Polearm,Support,Geo DMG,5908,101,297
+Zhongli,40,5,Geo,Polearm,Support,Geo DMG,6605,113,332
+Zhongli,50,5,Geo,Polearm,Support,Geo DMG,7599,130,382
+Zhongli,50,5,Geo,Polearm,Support,Geo DMG,8528,146,428
+Zhongli,60,5,Geo,Polearm,Support,Geo DMG,9533,163,479
+Zhongli,60,5,Geo,Polearm,Support,Geo DMG,10230,175,514
+Zhongli,70,5,Geo,Polearm,Support,Geo DMG,11243,192,564
+Zhongli,70,5,Geo,Polearm,Support,Geo DMG,11940,204,599
+Zhongli,80,5,Geo,Polearm,Support,Geo DMG,12965,222,651
+Zhongli,80,5,Geo,Polearm,Support,Geo DMG,13662,233,686
+Zhongli,90,5,Geo,Polearm,Support,Geo DMG,14695,251,738
+Diona,1,4,Cryo,Bow,Support,Cryo DMG,802,18,50
+Diona,20,4,Cryo,Bow,Support,Cryo DMG,2061,46,129
+Diona,20,4,Cryo,Bow,Support,Cryo DMG,2661,59,167
+Diona,40,4,Cryo,Bow,Support,Cryo DMG,3985,88,250
+Diona,40,4,Cryo,Bow,Support,Cryo DMG,4411,98,277
+Diona,50,4,Cryo,Bow,Support,Cryo DMG,5074,113,318
+Diona,50,4,Cryo,Bow,Support,Cryo DMG,5642,125,354
+Diona,60,4,Cryo,Bow,Support,Cryo DMG,6305,140,396
+Diona,60,4,Cryo,Bow,Support,Cryo DMG,6731,149,422
+Diona,70,4,Cryo,Bow,Support,Cryo DMG,7393,164,464
+Diona,70,4,Cryo,Bow,Support,Cryo DMG,7818,174,491
+Diona,80,4,Cryo,Bow,Support,Cryo DMG,8481,188,532
+Diona,80,4,Cryo,Bow,Support,Cryo DMG,8907,198,559
+Diona,90,4,Cryo,Bow,Support,Cryo DMG,9570,212,601
+Xinyan,1,4,Pyro,Claymore,Support,ATK,939,21,67
+Xinyan,20,4,Pyro,Claymore,Support,ATK,2413,54,172
+Xinyan,20,4,Pyro,Claymore,Support,ATK,3114,69,222
+Xinyan,40,4,Pyro,Claymore,Support,ATK,4665,103,333
+Xinyan,40,4,Pyro,Claymore,Support,ATK,5163,115,368
+Xinyan,50,4,Pyro,Claymore,Support,ATK,5939,132,423
+Xinyan,50,4,Pyro,Claymore,Support,ATK,6604,147,471
+Xinyan,60,4,Pyro,Claymore,Support,ATK,7379,164,526
+Xinyan,60,4,Pyro,Claymore,Support,ATK,7878,175,562
+Xinyan,70,4,Pyro,Claymore,Support,ATK,8653,192,617
+Xinyan,70,4,Pyro,Claymore,Support,ATK,9151,203,652
+Xinyan,80,4,Pyro,Claymore,Support,ATK,9927,220,708
+Xinyan,80,4,Pyro,Claymore,Support,ATK,10425,231,743
+Xinyan,90,4,Pyro,Claymore,Support,ATK,11201,249,799
+Ganyu,1,5,Cryo,Bow,DPS,CRIT DMG,763,26,49
+Ganyu,20,5,Cryo,Bow,DPS,CRIT DMG,1978,68,127
+Ganyu,20,5,Cryo,Bow,DPS,CRIT DMG,2632,90,169
+Ganyu,40,5,Cryo,Bow,DPS,CRIT DMG,3939,135,253
+Ganyu,40,5,Cryo,Bow,DPS,CRIT DMG,4403,151,283
+Ganyu,50,5,Cryo,Bow,DPS,CRIT DMG,5066,173,326
+Ganyu,50,5,Cryo,Bow,DPS,CRIT DMG,5686,194,366
+Ganyu,60,5,Cryo,Bow,DPS,CRIT DMG,6355,217,409
+Ganyu,60,5,Cryo,Bow,DPS,CRIT DMG,6820,233,439
+Ganyu,70,5,Cryo,Bow,DPS,CRIT DMG,7495,256,482
+Ganyu,70,5,Cryo,Bow,DPS,CRIT DMG,7960,272,512
+Ganyu,80,5,Cryo,Bow,DPS,CRIT DMG,8643,295,556
+Ganyu,80,5,Cryo,Bow,DPS,CRIT DMG,9108,311,586
+Ganyu,90,5,Cryo,Bow,DPS,CRIT DMG,9797,335,630
+Albedo,1,5,Geo,Sword,Support,Geo DMG,1030,20,68
+Albedo,20,5,Geo,Sword,Support,Geo DMG,2671,51,177
+Albedo,20,5,Geo,Sword,Support,Geo DMG,3554,67,235
+Albedo,40,5,Geo,Sword,Support,Geo DMG,5317,101,352
+Albedo,40,5,Geo,Sword,Support,Geo DMG,5944,113,394
+Albedo,50,5,Geo,Sword,Support,Geo DMG,6839,130,453
+Albedo,50,5,Geo,Sword,Support,Geo DMG,7675,146,508
+Albedo,60,5,Geo,Sword,Support,Geo DMG,8579,163,568
+Albedo,60,5,Geo,Sword,Support,Geo DMG,9207,175,610
+Albedo,70,5,Geo,Sword,Support,Geo DMG,10119,192,670
+Albedo,70,5,Geo,Sword,Support,Geo DMG,10746,204,712
+Albedo,80,5,Geo,Sword,Support,Geo DMG,11669,222,773
+Albedo,80,5,Geo,Sword,Support,Geo DMG,12296,233,815
+Albedo,90,5,Geo,Sword,Support,Geo DMG,13226,251,876
+Rosaria,1,4,Cryo,Polearm,DPS,ATK,1030,20,60
+Rosaria,20,4,Cryo,Polearm,DPS,ATK,2647,52,153
+Rosaria,20,4,Cryo,Polearm,DPS,ATK,3417,67,197
+Rosaria,40,4,Cryo,Polearm,DPS,ATK,5118,100,296
+Rosaria,40,4,Cryo,Polearm,DPS,ATK,5665,111,327
+Rosaria,50,4,Cryo,Polearm,DPS,ATK,6516,127,376
+Rosaria,50,4,Cryo,Polearm,DPS,ATK,7245,141,418
+Rosaria,60,4,Cryo,Polearm,DPS,ATK,8096,158,468
+Rosaria,60,4,Cryo,Polearm,DPS,ATK,8643,169,499
+Rosaria,70,4,Cryo,Polearm,DPS,ATK,9493,185,548
+Rosaria,70,4,Cryo,Polearm,DPS,ATK,10040,196,580
+Rosaria,80,4,Cryo,Polearm,DPS,ATK,10891,213,629
+Rosaria,80,4,Cryo,Polearm,DPS,ATK,11438,223,661
+Rosaria,90,4,Cryo,Polearm,DPS,ATK,12289,240,710
+Ayaka,1,5,Cryo,Sword,DPS,CRIT DMG,1001,27,61
+Ayaka,20,5,Cryo,Sword,DPS,CRIT DMG,2597,69,158
+Ayaka,20,5,Cryo,Sword,DPS,CRIT DMG,3455,92,211
+Ayaka,40,5,Cryo,Sword,DPS,CRIT DMG,5170,138,315
+Ayaka,40,5,Cryo,Sword,DPS,CRIT DMG,5779,154,352
+Ayaka,50,5,Cryo,Sword,DPS,CRIT DMG,6649,177,405
+Ayaka,50,5,Cryo,Sword,DPS,CRIT DMG,7462,198,455
+Ayaka,60,5,Cryo,Sword,DPS,CRIT DMG,8341,222,509
+Ayaka,60,5,Cryo,Sword,DPS,CRIT DMG,8951,238,546
+Ayaka,70,5,Cryo,Sword,DPS,CRIT DMG,9838,262,600
+Ayaka,70,5,Cryo,Sword,DPS,CRIT DMG,10448,278,637
+Ayaka,80,5,Cryo,Sword,DPS,CRIT DMG,11345,302,692
+Ayaka,80,5,Cryo,Sword,DPS,CRIT DMG,11954,318,729
+Ayaka,90,5,Cryo,Sword,DPS,CRIT DMG,12858,342,784
+Hutao,1,5,Pyro,Polearm,DPS,CRIT DMG,1211,8,68
+Hutao,20,5,Pyro,Polearm,DPS,CRIT DMG,3141,21,177
+Hutao,20,5,Pyro,Polearm,DPS,CRIT DMG,4179,29,235
+Hutao,40,5,Pyro,Polearm,DPS,CRIT DMG,6253,43,352
+Hutao,40,5,Pyro,Polearm,DPS,CRIT DMG,6990,48,394
+Hutao,50,5,Pyro,Polearm,DPS,CRIT DMG,8042,55,453
+Hutao,50,5,Pyro,Polearm,DPS,CRIT DMG,9026,62,508
+Hutao,60,5,Pyro,Polearm,DPS,CRIT DMG,10089,69,568
+Hutao,60,5,Pyro,Polearm,DPS,CRIT DMG,10826,74,610
+Hutao,70,5,Pyro,Polearm,DPS,CRIT DMG,11899,81,670
+Hutao,70,5,Pyro,Polearm,DPS,CRIT DMG,12637,86,712
+Hutao,80,5,Pyro,Polearm,DPS,CRIT DMG,13721,94,773
+Hutao,80,5,Pyro,Polearm,DPS,CRIT DMG,14459,99,815
+Hutao,90,5,Pyro,Polearm,DPS,CRIT DMG,15552,106,876
+Yanfei,1,4,Pyro,Catalyst,DPS,Pyro DMG,784,20,49
+Yanfei,20,4,Pyro,Catalyst,DPS,Pyro DMG,2014,52,126
+Yanfei,20,4,Pyro,Catalyst,DPS,Pyro DMG,2600,67,163
+Yanfei,40,4,Pyro,Catalyst,DPS,Pyro DMG,3895,100,244
+Yanfei,40,4,Pyro,Catalyst,DPS,Pyro DMG,4311,111,271
+Yanfei,50,4,Pyro,Catalyst,DPS,Pyro DMG,4959,127,311
+Yanfei,50,4,Pyro,Catalyst,DPS,Pyro DMG,5514,141,346
+Yanfei,60,4,Pyro,Catalyst,DPS,Pyro DMG,6161,158,387
+Yanfei,60,4,Pyro,Catalyst,DPS,Pyro DMG,6578,169,413
+Yanfei,70,4,Pyro,Catalyst,DPS,Pyro DMG,7225,185,453
+Yanfei,70,4,Pyro,Catalyst,DPS,Pyro DMG,7641,196,480
+Yanfei,80,4,Pyro,Catalyst,DPS,Pyro DMG,8289,213,520
+Yanfei,80,4,Pyro,Catalyst,DPS,Pyro DMG,8705,223,546
+Yanfei,90,4,Pyro,Catalyst,DPS,Pyro DMG,9352,240,587
+Eula,1,5,Cryo,Claymore,DPS,CRIT DMG,1030,27,58
+Eula,20,5,Cryo,Claymore,DPS,CRIT DMG,2671,69,152
+Eula,20,5,Cryo,Claymore,DPS,CRIT DMG,3554,92,202
+Eula,40,5,Cryo,Claymore,DPS,CRIT DMG,5317,138,302
+Eula,40,5,Cryo,Claymore,DPS,CRIT DMG,5944,154,337
+Eula,50,5,Cryo,Claymore,DPS,CRIT DMG,6839,177,388
+Eula,50,5,Cryo,Claymore,DPS,CRIT DMG,7675,198,436
+Eula,60,5,Cryo,Claymore,DPS,CRIT DMG,8579,222,487
+Eula,60,5,Cryo,Claymore,DPS,CRIT DMG,9207,238,523
+Eula,70,5,Cryo,Claymore,DPS,CRIT DMG,10119,262,574
+Eula,70,5,Cryo,Claymore,DPS,CRIT DMG,10746,278,610
+Eula,80,5,Cryo,Claymore,DPS,CRIT DMG,11669,302,662
+Eula,80,5,Cryo,Claymore,DPS,CRIT DMG,12296,318,698
+Eula,90,5,Cryo,Claymore,DPS,CRIT DMG,13226,342,751
+Kazuha,1,5,Anemo,Sword,Support,Elemental Mastery,1039,23,63
+Kazuha,20,5,Anemo,Sword,Support,Elemental Mastery,2695,60,163
+Kazuha,20,5,Anemo,Sword,Support,Elemental Mastery,3586,80,217
+Kazuha,40,5,Anemo,Sword,Support,Elemental Mastery,5366,119,324
+Kazuha,40,5,Anemo,Sword,Support,Elemental Mastery,5999,133,363
+Kazuha,50,5,Anemo,Sword,Support,Elemental Mastery,6902,153,417
+Kazuha,50,5,Anemo,Sword,Support,Elemental Mastery,7747,172,468
+Kazuha,60,5,Anemo,Sword,Support,Elemental Mastery,8659,192,523
+Kazuha,60,5,Anemo,Sword,Support,Elemental Mastery,9292,206,562
+Kazuha,70,5,Anemo,Sword,Support,Elemental Mastery,10213,227,617
+Kazuha,70,5,Anemo,Sword,Support,Elemental Mastery,10846,241,656
+Kazuha,80,5,Anemo,Sword,Support,Elemental Mastery,11777,262,712
+Kazuha,80,5,Anemo,Sword,Support,Elemental Mastery,12410,276,750
+Kazuha,90,5,Anemo,Sword,Support,Elemental Mastery,13348,297,807
+Yoimiya,1,5,Pyro,Bow,DPS,CRIT Rate,791,25,48
+Yoimiya,20,5,Pyro,Bow,DPS,CRIT Rate,2053,65,124
+Yoimiya,20,5,Pyro,Bow,DPS,CRIT Rate,2731,87,165
+Yoimiya,40,5,Pyro,Bow,DPS,CRIT Rate,4086,130,247
+Yoimiya,40,5,Pyro,Bow,DPS,CRIT Rate,4568,145,276
+Yoimiya,50,5,Pyro,Bow,DPS,CRIT Rate,5256,167,318
+Yoimiya,50,5,Pyro,Bow,DPS,CRIT Rate,5899,187,357
+Yoimiya,60,5,Pyro,Bow,DPS,CRIT Rate,6593,209,399
+Yoimiya,60,5,Pyro,Bow,DPS,CRIT Rate,7075,225,428
+Yoimiya,70,5,Pyro,Bow,DPS,CRIT Rate,7777,247,470
+Yoimiya,70,5,Pyro,Bow,DPS,CRIT Rate,8259,262,500
+Yoimiya,80,5,Pyro,Bow,DPS,CRIT Rate,8968,285,542
+Yoimiya,80,5,Pyro,Bow,DPS,CRIT Rate,9450,300,572
+Yoimiya,90,5,Pyro,Bow,DPS,CRIT Rate,10164,323,615
+Sayu,1,4,Anemo,Claymore,Healer,Elemental Mastery,994,20,62
+Sayu,20,4,Anemo,Claymore,Healer,Elemental Mastery,2553,53,160
+Sayu,20,4,Anemo,Claymore,Healer,Elemental Mastery,3296,68,207
+Sayu,40,4,Anemo,Claymore,Healer,Elemental Mastery,4937,102,310
+Sayu,40,4,Anemo,Claymore,Healer,Elemental Mastery,5464,113,343
+Sayu,50,4,Anemo,Claymore,Healer,Elemental Mastery,6285,130,395
+Sayu,50,4,Anemo,Claymore,Healer,Elemental Mastery,6988,144,439
+Sayu,60,4,Anemo,Claymore,Healer,Elemental Mastery,7809,161,491
+Sayu,60,4,Anemo,Claymore,Healer,Elemental Mastery,8337,172,524
+Sayu,70,4,Anemo,Claymore,Healer,Elemental Mastery,9157,189,575
+Sayu,70,4,Anemo,Claymore,Healer,Elemental Mastery,9684,200,608
+Sayu,80,4,Anemo,Claymore,Healer,Elemental Mastery,10505,216,660
+Sayu,80,4,Anemo,Claymore,Healer,Elemental Mastery,11033,227,693
+Sayu,90,4,Anemo,Claymore,Healer,Elemental Mastery,11854,244,745
+Traveler,1,5,All,Sword,Support,ATK,912,18,57
+Traveler,20,5,All,Sword,Support,ATK,2342,46,147
+Traveler,20,5,All,Sword,Support,ATK,3024,59,190
+Traveler,40,5,All,Sword,Support,ATK,4529,88,284
+Traveler,40,5,All,Sword,Support,ATK,5013,98,315
+Traveler,50,5,All,Sword,Support,ATK,5766,113,362
+Traveler,50,5,All,Sword,Support,ATK,6411,125,402
+Traveler,60,5,All,Sword,Support,ATK,7164,140,450
+Traveler,60,5,All,Sword,Support,ATK,7648,149,480
+Traveler,70,5,All,Sword,Support,ATK,8401,164,527
+Traveler,70,5,All,Sword,Support,ATK,8885,174,558
+Traveler,80,5,All,Sword,Support,ATK,9638,188,605
+Traveler,80,5,All,Sword,Support,ATK,10122,198,635
+Traveler,90,5,All,Sword,Support,ATK,10875,212,683
+Shogun,1,5,Electro,Polearm,Sub DPS,Energy Recharge,1005,26,61
+Shogun,20,5,Electro,Polearm,Sub DPS,Energy Recharge,2606,68,159
+Shogun,20,5,Electro,Polearm,Sub DPS,Energy Recharge,3468,91,212
+Shogun,40,5,Electro,Polearm,Sub DPS,Energy Recharge,5189,136,317
+Shogun,40,5,Electro,Polearm,Sub DPS,Energy Recharge,5801,152,355
+Shogun,50,5,Electro,Polearm,Sub DPS,Energy Recharge,6675,174,408
+Shogun,50,5,Electro,Polearm,Sub DPS,Energy Recharge,7491,196,458
+Shogun,60,5,Electro,Polearm,Sub DPS,Energy Recharge,8373,219,512
+Shogun,60,5,Electro,Polearm,Sub DPS,Energy Recharge,8985,235,549
+Shogun,70,5,Electro,Polearm,Sub DPS,Energy Recharge,9875,258,604
+Shogun,70,5,Electro,Polearm,Sub DPS,Energy Recharge,10487,274,641
+Shogun,80,5,Electro,Polearm,Sub DPS,Energy Recharge,11388,298,696
+Shogun,80,5,Electro,Polearm,Sub DPS,Energy Recharge,12000,314,734
+Shogun,90,5,Electro,Polearm,Sub DPS,Energy Recharge,12907,337,789
+Aloy,1,5,Cryo,Bow,DPS,Cryo DMG,848,18,53
+Aloy,20,5,Cryo,Bow,DPS,Cryo DMG,2201,47,137
+Aloy,20,5,Cryo,Bow,DPS,Cryo DMG,2928,63,182
+Aloy,40,5,Cryo,Bow,DPS,Cryo DMG,4382,94,272
+Aloy,40,5,Cryo,Bow,DPS,Cryo DMG,4899,105,304
+Aloy,50,5,Cryo,Bow,DPS,Cryo DMG,5636,121,350
+Aloy,50,5,Cryo,Bow,DPS,Cryo DMG,6325,136,393
+Aloy,60,5,Cryo,Bow,DPS,Cryo DMG,7070,152,439
+Aloy,60,5,Cryo,Bow,DPS,Cryo DMG,7587,163,471
+Aloy,70,5,Cryo,Bow,DPS,Cryo DMG,8339,179,517
+Aloy,70,5,Cryo,Bow,DPS,Cryo DMG,8856,190,550
+Aloy,80,5,Cryo,Bow,DPS,Cryo DMG,9616,206,597
+Aloy,80,5,Cryo,Bow,DPS,Cryo DMG,10133,217,629
+Aloy,90,5,Cryo,Bow,DPS,Cryo DMG,10899,234,676
+Sara,1,4,Electro,Bow,Support,ATK,802,16,53
+Sara,20,4,Electro,Bow,Support,ATK,2061,42,135
+Sara,20,4,Electro,Bow,Support,ATK,2661,54,175
+Sara,40,4,Electro,Bow,Support,ATK,3985,81,262
+Sara,40,4,Electro,Bow,Support,ATK,4411,90,289
+Sara,50,4,Electro,Bow,Support,ATK,5074,104,333
+Sara,50,4,Electro,Bow,Support,ATK,5642,115,370
+Sara,60,4,Electro,Bow,Support,ATK,6305,129,414
+Sara,60,4,Electro,Bow,Support,ATK,6731,137,442
+Sara,70,4,Electro,Bow,Support,ATK,7393,151,485
+Sara,70,4,Electro,Bow,Support,ATK,7818,160,513
+Sara,80,4,Electro,Bow,Support,ATK,8481,173,556
+Sara,80,4,Electro,Bow,Support,ATK,8907,182,584
+Sara,90,4,Electro,Bow,Support,ATK,9570,195,628
+Kokomi,1,5,Hydro,Catalyst,Healer,Hydro DMG,1049,18,51
+Kokomi,20,5,Hydro,Catalyst,Healer,Hydro DMG,2720,47,133
+Kokomi,20,5,Hydro,Catalyst,Healer,Hydro DMG,3619,63,177
+Kokomi,40,5,Hydro,Catalyst,Healer,Hydro DMG,5416,94,264
+Kokomi,40,5,Hydro,Catalyst,Healer,Hydro DMG,6055,105,295
+Kokomi,50,5,Hydro,Catalyst,Healer,Hydro DMG,6966,121,340
+Kokomi,50,5,Hydro,Catalyst,Healer,Hydro DMG,7818,136,381
+Kokomi,60,5,Hydro,Catalyst,Healer,Hydro DMG,8738,152,426
+Kokomi,60,5,Hydro,Catalyst,Healer,Hydro DMG,9377,163,457
+Kokomi,70,5,Hydro,Catalyst,Healer,Hydro DMG,10306,179,503
+Kokomi,70,5,Hydro,Catalyst,Healer,Hydro DMG,10945,190,534
+Kokomi,80,5,Hydro,Catalyst,Healer,Hydro DMG,11885,207,580
+Kokomi,80,5,Hydro,Catalyst,Healer,Hydro DMG,12524,218,611
+Kokomi,90,5,Hydro,Catalyst,Healer,Hydro DMG,13471,234,657
