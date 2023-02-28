@@ -1,0 +1,227 @@
+---
+title: "TUGAS INDIVIDU PRAKTIKUM 02"
+author: "MIFTAHUL HUDA"
+output: html_document
+date: "2023-02-28"
+---
+
+Pada praktikum kali ini akan dilakukan klasifikasi pada dataset kriminal di Kota Boston, dengan algoritma Logistic Regression, Linear Discriminant Analysis (LDA), dan KNN.
+
+# Package
+
+Memanggil Package
+
+```{r}
+library("ISLR")
+library("MASS")
+library("repr")
+library("ggplot2")
+library("ROCR")
+library(class)
+```
+
+```{r}
+Boston <- read.csv("https://raw.githubusercontent.com/Mif212/dokumen/main/HR.csv")
+head(Boston)
+```
+
+```{r}
+summary(Boston)
+```
+
+# Generate the response variable
+
+```{r}
+Attrition_rate <- rep(0,1470)
+Attrition_rate[Boston$Attrition == "Yes"]=1
+df <- Boston[,-2]
+df <- data.frame(df, Attrition_rate)
+df$Attrition_rate <- as.factor(df$Attrition_rate)
+```
+
+# Exploratory data analysis
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=Age, color = Attrition_rate))+geom_boxplot()+theme_classic()+labs(title="Age vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=DistanceFromHome, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title="Distance From House plots vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=Education, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title="Education vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=HourlyRate, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title = "Hourly Rate vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=EmployeeNumber, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title = "Employee Number vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=EnvironmentSatisfaction, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title = "Environment Satisfaction vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=Gender,color = Attrition_rate))+geom_boxplot()+theme_classic() +
+  labs(title = "Gender vs crime_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=BusinessTravel, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title = "Business Travel vs Attrition_rat")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=DailyRate, color = Attrition_rate))+geom_boxplot()+theme_classic() +
+  labs(title = "Daily Rate vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=Department, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title = "Department vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=EducationField, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title = "Education Field vs Attrition_rate")
+```
+
+```{r}
+ggplot(df,aes(x=Attrition_rate,y=HourlyRate, color = Attrition_rate))+geom_boxplot()+theme_classic()+
+  labs(title = "Hourly Rate vs Attrition_rate")
+```
+
+# Split the dataset into test and training sets
+
+```{r}
+data = df
+data = data[, -8]
+data = data[, -20]
+data = data[, -24]
+head(data)
+```
+
+```{r}
+set.seed(1110)
+df_split = sort(sample(nrow(data), nrow(data)*0.8)) ## 80% of the dataset randomly selected
+train<-data[df_split,]
+test<-data[-df_split,]
+```
+
+# COMPARISON OF CLASSIFIERS
+
+## Logistic regression model
+
+```{r}
+df_logit <- glm(Attrition_rate~Age+DailyRate+ DistanceFromHome+ Education+ EmployeeNumber+ EnvironmentSatisfaction+ HourlyRate+ JobInvolvement+ JobLevel+ JobSatisfaction+ MonthlyIncome+ MonthlyRate+ NumCompaniesWorked+ PercentSalaryHike+ PerformanceRating+ RelationshipSatisfaction+ StockOptionLevel+ TotalWorkingYears+ TrainingTimesLastYear+ WorkLifeBalance+ YearsAtCompany+ YearsInCurrentRole+ YearsSinceLastPromotion+ YearsWithCurrManager, data = train,family = "binomial"(link="logit"))
+```
+
+```{r}
+summary(df_logit)
+```
+
+### Predictive accuracy of the logistic regression model
+
+```{r}
+fitted.results <- predict(df_logit, newdata=test, type='response')
+fitted.results <- ifelse(fitted.results > 0.5, 1, 0)
+table(fitted.results, test$Attrition_rate)
+```
+
+```{r}
+Accuracy.logistic <- mean(fitted.results == test$Attrition_rate)*100
+print(paste('Accuracy is ',Accuracy.logistic,"%"))
+```
+
+```{r}
+print(paste('Test error is ',100-Accuracy.logistic,"%"))
+```
+
+### ROC and AUC
+
+```{r}
+library("ROCR")
+predict <- fitted(df_logit)
+pred <- prediction(predict, train$Attrition_rate)
+perf <- performance(pred, measure = "tpr", x.measure = "fpr")
+plot(perf, main="sensitivity vs false positive rate",colorize=TRUE)
+```
+
+## Linear discriminant analysis (LDA)
+
+```{r}
+lda.fit=lda(Attrition_rate~Age + DailyRate + DistanceFromHome + 
+    Education + EmployeeNumber + EnvironmentSatisfaction + HourlyRate + 
+    JobInvolvement + JobLevel + JobSatisfaction + MonthlyIncome + 
+    MonthlyRate + NumCompaniesWorked + PercentSalaryHike + PerformanceRating + 
+    RelationshipSatisfaction + StockOptionLevel + TotalWorkingYears + 
+    TrainingTimesLastYear + WorkLifeBalance + YearsAtCompany + 
+    YearsInCurrentRole + YearsSinceLastPromotion + YearsWithCurrManager, data = train)
+lda.fit
+```
+
+```{r}
+lda.pred=predict(lda.fit,test)
+lda.class =lda.pred$class
+table(lda.class, test$Attrition_rate)
+```
+
+### Predictive accuracy of LDA model
+
+```{r}
+accuracy.lda <- mean(lda.class == test$Attrition_rate)*100
+print(paste('Accuracy is ',accuracy.lda,"%"))
+```
+
+```{r}
+print(paste('Test error is ',100-accuracy.lda,"%"))
+```
+
+## KNN (K-Nearest Neighbour) model
+
+```{r}
+# select kolom numerik
+trn = train
+tst = test
+trn <- dplyr::select(trn, Age, DailyRate, DistanceFromHome, Education, EmployeeNumber, EnvironmentSatisfaction, HourlyRate, JobInvolvement, JobLevel, JobSatisfaction, MonthlyIncome, MonthlyRate, NumCompaniesWorked, PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, StockOptionLevel, TotalWorkingYears, TrainingTimesLastYear, WorkLifeBalance, YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager, Attrition_rate)
+tst <- dplyr::select(trn, Age, DailyRate, DistanceFromHome, Education, EmployeeNumber, EnvironmentSatisfaction, HourlyRate, JobInvolvement, JobLevel, JobSatisfaction, MonthlyIncome, MonthlyRate, NumCompaniesWorked, PercentSalaryHike, PerformanceRating, RelationshipSatisfaction, StockOptionLevel, TotalWorkingYears, TrainingTimesLastYear, WorkLifeBalance, YearsAtCompany, YearsInCurrentRole, YearsSinceLastPromotion, YearsWithCurrManager, Attrition_rate)
+```
+
+```{r}
+train.Y <- tst[,25] # extract the response variable in the training dataset
+test.Y <- tst[,25] # extract the response variable in the test dataset
+train.X <- scale(trn[,-25]) # normalize the predictor variables in the training dataset
+test.X <- scale(trn[,-25]) # normalize the predictor variables in the test dataset
+```
+
+### choose the best value for k
+
+```{r}
+for (i in 1:10){
+  knn.pred <- knn(train.X,test.X,train.Y,k=i)
+  print(paste("accuracy for k =", i, "is ",round(mean(test.Y == knn.pred), digits = 2)))
+}
+```
+
+```{r}
+knn.pred <- knn(train.X,test.X,train.Y,k=3)
+table(knn.pred, test.Y)
+```
+
+```{r}
+accuracy.knn <- mean(test.Y == knn.pred)*100
+print(paste('Accuracy is ',accuracy.knn,"%"))
+```
+
+```{r}
+print(paste('Test error is ',100-accuracy.knn,"%"))
+```
